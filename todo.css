@@ -1,0 +1,40 @@
+#todo-list{
+    justify-content: center;
+    background-color: orange;
+    width: 50%;
+    margin: auto;
+    padding: 5px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: fit-content;
+}
+#title{
+    text-align: center;
+}
+#toDoItems{
+    text-align: center;
+}
+#hr{
+    border: 1px solid lightgray;
+    opacity: .5;
+    width: 80%;
+    margin: auto;
+}
+#push {
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#task-input{
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#bullets{
+    margin: auto;
+    padding: 10px;
+    position: relative;
+
+}
+ul {
+    list-style-type: disc; /* Set bullet point style for the list */
+  }
+  
